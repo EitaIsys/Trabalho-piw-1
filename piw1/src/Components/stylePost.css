@@ -1,0 +1,14 @@
+.post{
+    border: 1px red solid;
+    width: 900px;
+}
+.nickname{
+    font-weight: bold;
+    text-align: left;
+
+}
+.msg{
+    
+    text-align: left;
+    
+}

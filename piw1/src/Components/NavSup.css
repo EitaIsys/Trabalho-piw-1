@@ -1,0 +1,32 @@
+.logo{
+    height: 35px;
+    float: left;
+}
+button{
+    float: left;
+    border-radius:4px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+}
+.nome{
+    float: right;
+    font-weight: bold;
+    color: whitesmoke;
+}
+.perfil{
+    float: right;
+    height: 35px;
+    padding: 2px;
+
+}
+.navegadorSup{
+    height: 45px;
+    background-color: brown;
+    padding: 10px 5px 0 5px;
+    
+}
