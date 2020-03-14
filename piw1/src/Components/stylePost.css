@@ -5,10 +5,12 @@
 .nickname{
     font-weight: bold;
     text-align: left;
+    
+    background-color: #FFEBCD;
 
 }
 .msg{
-    
+    padding: 0px 0px 20px 0px;
     text-align: left;
     
 }
